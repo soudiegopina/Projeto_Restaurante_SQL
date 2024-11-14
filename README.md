@@ -36,7 +36,7 @@ Este é um projeto prático de banco de dados desenvolvido para um restaurante, 
 Para clonar este repositório para o seu computador e começar a explorar o código e os dados, siga os seguintes passos:
 
 1. **Vá até o repositório no GitHub**  
-   Acesse a página do projeto no GitHub: [link para o repositório](https://github.com/seunome/projeto-sql.git) 
+   Acesse a página do projeto no GitHub:  https://github.com/soudiegopina/Projeto_Restaurante_SQL.git 
 
 2. **Copiar o Link do Repositório**  
    - Clique no botão verde **Code**.
@@ -49,4 +49,4 @@ Para clonar este repositório para o seu computador e começar a explorar o cód
    No terminal, execute o seguinte comando:
 
    ```bash
-   git clone https://github.com/seunome/projeto-sql.git
+   git clone https://github.com/soudiegopina/Projeto_Restaurante_SQL.git
